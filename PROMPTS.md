@@ -8,9 +8,9 @@ Create development steps in `Scratchpad` of `.cursorrules` to create an ecommerc
 
 We already done these steps:
 
-- [ ] Initialize Next.js 15 project with TypeScript
-- [ ] Set up project structure and folders
-- [ ] Configure ESLint and Prettier
+- [x] Initialize Next.js 15 project with TypeScript
+- [x] Set up project structure and folders
+- [x] Configure ESLint and Prettier
 
 Make them done and Start from this step:
 Install and configure dependencies
